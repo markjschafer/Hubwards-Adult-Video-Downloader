@@ -1,0 +1,1 @@
+cat pornhub.com-db.csv | tr ";" "," | tr "|" ";" > ./CSV/IN/pornhub.com-rti-db.csv
