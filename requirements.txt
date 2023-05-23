@@ -3,5 +3,5 @@ urllib3>=1.26.5
 youtube_dl==2021.6.6
 gender==0.0.28
 ttkthemes==3.2.2
-requests==2.25.1
+requests==2.31.0
 EasySettings==4.0.1
